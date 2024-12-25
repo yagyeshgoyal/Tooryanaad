@@ -8,6 +8,7 @@ import SideBar from './Components/SideBar'
 import MiddleFront from './Components/MiddleFront'
 import Guest from './Components/Guest'
 import CompetionPage from './Components/CompetionPage'
+import Vithika from './Components/Vithika'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,7 +20,9 @@ function App() {
       {/* <UpperFront/> */}
       {/* <MiddleFront/> */}
       <Guest/>
-      <CompetionPage/>
+      {/* <CompetionPage/> */}
+      {/* <Vithika/> */}
+
       
     </div>
   )

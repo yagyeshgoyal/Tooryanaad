@@ -1,7 +1,5 @@
 import React from "react";
 import ImageContainer from "./ImageContainer";
-// import images2 from './images/2.jpeg';
-// import image from './images/bhooribai.jpg'
 import Dataset from "./DatasetOfGuest";
 import GuestOfYear from "./GusetOfYear";
 

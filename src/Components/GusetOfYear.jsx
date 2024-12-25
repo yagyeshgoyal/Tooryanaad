@@ -2,7 +2,6 @@ import React from "react";
 import ImageContainer from "./ImageContainer";
 
 function GuestOfYear(props){
-    // console.log(props);
     return (
         <div className="max-w-[1200px] flex flex-col items-center  mx-auto ">
             <div className="font-bold text-yellow-500 text-xl py-6 sm:text-2xl">{props.details.year}</div>
