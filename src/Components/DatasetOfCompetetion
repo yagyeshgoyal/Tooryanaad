@@ -1,0 +1,55 @@
+export default [
+    {
+        image : "./CompetetionImage/KaviSammelan.jpg",
+        name : "कवि सम्मेलन"
+    },
+    {
+        image : "./CompetetionImage/AbhivyaktiSinging.jpg",
+        name : "अभिव्यक्ति गायन"
+    },
+    {
+        image : "./CompetetionImage/Chakravyuh.jpg",
+        name : "चक्रव्यूह"
+    },
+    {
+        image : "./CompetetionImage/Srijan.jpg",
+        name : "सृजन"
+    },
+    {
+        image : "./CompetetionImage/DigitalSrijan.jpg",
+        name : "डिजिटल सृजन"
+    },
+    {
+        image : "./CompetetionImage/AbhivyaktiStage.jpg",
+        name : "अभिव्यक्ति मंच"
+    },
+    {
+        image : "./CompetetionImage/AbhivyaktiDance.jpg",
+        name : "अभिव्यक्ति नृत्"
+    },
+    {
+        image : "./CompetetionImage/Paridhanika.jpg",
+        name : "परिधानिका"
+    },
+    {
+        image : "./CompetetionImage/BhashaSangamam.jpg",
+        name : "भाषा संगमम्"
+    },
+    {
+        image : "./CompetetionImage/StudentParliament.jpg",
+        name : "छात्र संसद"
+    },
+    {
+        image : "./CompetetionImage/Khichdi.jpg",
+        name : "खिचड़ी"
+    },
+    {
+        image : "./CompetetionImage/Lekhan.jpg",
+        name : "लेखन"
+    },
+    {
+        image : "./CompetetionImage/NukkadNatak.jpg",
+        name : "नुक्कड़ नाटक"
+    }
+    
+]
