@@ -7,7 +7,15 @@ function Vithika(){
         <div className="md:mt-14">
             <div className="w-full text-center px-4 py-4 mt-20">
                 <div className="font-bold text-yellow-500 text-xl sm:text-3xl mb-10">वीथिका</div>
-              
+                <div className="max-w-[80%] 2xl:max-w-[1200px] grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 max-sm:gap-7 mx-auto">
+                    {
+                        Dataset.map(image => {
+                            return(
+                                <VithikaImageContainer image = {image} ></VithikaImageContainer>
+                            )
+                        })
+                    }
+                </div>
             </div>
         </div>
     )

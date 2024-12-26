@@ -19,9 +19,9 @@ function App() {
       <TopBar/>
       {/* <UpperFront/> */}
       {/* <MiddleFront/> */}
-      <Guest/>
+      {/* <Guest/> */}
       {/* <CompetionPage/> */}
-      {/* <Vithika/> */}
+      <Vithika/>
 
       
     </div>
