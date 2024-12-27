@@ -1,0 +1,42 @@
+export default [
+    {
+        image : "./FoundersImages/dixitmam.jpg",
+        name : "डॉ. सविता दीक्षित",
+        position : "संस्थापक"
+    },
+    {
+        image : "./FoundersImages/riteshgoyalarya.jpg",
+        name : "श्री ऋतेश गोयल आर्य",
+        position : "संस्थापक"
+    },
+    {
+        image : "./FoundersImages/anugrah.jpg",
+        name : "अनुग्रह अनिलकुमार नगाईच",
+        position : "संस्थापक"
+    },
+    {
+        image : "./FoundersImages/athakur.jpg",
+        name : "आशुतोष सिंह ठाकुर",
+        position : "संस्थापक"
+    },
+    {
+        image : "./FoundersImages/abhilashp.jpg",
+        name : "अभिलाष पटैरिया",
+        position : "संस्थापक"
+    },
+    {
+        image : "./FoundersImages/smandloi.jpg",
+        name : "श्रध्दा मंडलोई",
+        position : "संस्थापक"
+    },
+    {
+        image : "./FoundersImages/richasundar.jpg",
+        name : "ऋचा सुंदर",
+        position : "संस्थापक"
+    },
+    {
+        image : "./FoundersImages/ashukla.jpg",
+        name : "आशुतोष शुक्ला",
+        position : "संस्थापक"
+    }
+]

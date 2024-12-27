@@ -1,0 +1,202 @@
+export default [
+    {
+        image : "./CurrentMembersImages/poorti.jpg",
+        name : "पूर्ति जैन",
+        position : "अध्यक्ष"
+    },
+    {
+        image : "./CurrentMembersImages/jitendra.jpg",
+        name : "जितेन्द्र जाट",
+        position : "अध्यक्ष"
+    },
+    {
+        image : "./CurrentMembersImages/himanshu.jpg",
+        name : "हिमांशु कुशवाह",
+        position : "उपाध्यक्ष"
+    },
+    {
+        image : "./CurrentMembersImages/gaurav.jpg",
+        name : "गौरव अवस्थी",
+        position : "उपाध्यक्ष"
+    },
+    {
+        image : "./CurrentMembersImages/harshit_singh.jpg",
+        name : "हर्षित सिंह ठाकुर",
+        position : "महासचिव"
+    },
+    {
+        image : "./CurrentMembersImages/deepesh.jpg",
+        name : "दीपेश कुमार दक्ष",
+        position : "सह-सचिव"
+    },
+    {
+        image : "./CurrentMembersImages/kamini.jpg",
+        name : "कामिनी पाण्डेय",
+        position : "समन्वयक"
+    },
+    {
+        image : "./CurrentMembersImages/harshita.jpg",
+        name : "हर्षिता वैद्य",
+        position : "समन्वयक"
+    },
+    {
+        image : "./CurrentMembersImages/aditya.jpg",
+        name : "आदित्य कुमार",
+        position : "कोषाध्यक्ष"
+    },
+    {
+        image : "./CurrentMembersImages/vibha.jpg",
+        name : "विभा मिश्रा",
+        position : "आयोजन प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/rinki.jpg",
+        name : "रिंकी कुर्मी",
+        position : "आयोजन प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/poorti.jpg",
+        name : "शिशिर मिश्रा",
+        position : "बौद्धिक प्रमुख, मीडिया एवं संपादन प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/gajendra.jpg",
+        name : "गजेंद्र लोधी",
+        position : "प्रशिक्षण प्रमुख एवं जनसंपर्क प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/poornima.jpg",
+        name : "पूर्णिमा देवी",
+        position : "अतिथि प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/srishti.jpg",
+        name : "सृष्टि",
+        position : "अतिथि प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/kuldeep.jpg",
+        name : "कुलदीप कुशवाहा",
+        position : "प्रचार प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/vaishnavi.jpg",
+        name : "वैष्णवी तंवर",
+        position : "प्रचार प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/akhil.jpg",
+        name : "अखिल कुमार अग्रवाल",
+        position : "प्रायोजकता प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/yuvraj.jpg",
+        name : "युवराज सिंह",
+        position : "प्रायोजकता प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/trishant.jpg",
+        name : "तृषान्त द्विवेदी",
+        position : "जनसंपर्क प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/shiv.jpg",
+        name : "शिवकुमार पटेल",
+        position : "प्रतियोगिता प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/karthikeya.jpg",
+        name : "कार्तिकेय साई दत्त",
+        position : "प्रतियोगिता प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/dhruv.jpg",
+        name : "ध्रुव परमार",
+        position : "प्रबंध प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/ayushi.jpg",
+        name : "आयुषी चौरसिया",
+        position : "तकनीकी प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/mulla.jpg",
+        name : "मुल्ला रिहाना",
+        position : "तकनीकी प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/srishti_khandelwar.jpg",
+        name : "सृष्टि खण्डेलवार",
+        position : "मुख्य वेब अभिकल्पक"
+    },
+    {
+        image : "./CurrentMembersImages/vikrant.jpg",
+        name : "विक्रांत कुशवाह",
+        position : "मुख्य वेब अभिकल्पक"
+    },
+    {
+        image : "./CurrentMembersImages/rhythm.jpg",
+        name : "ऋदम भल्ला",
+        position : "मुख्य छायाकार"
+    },
+    {
+        image : "./CurrentMembersImages/anushka.jpg",
+        name : "अनुष्का यादव",
+        position : "मुख्य अभिकल्पक"
+    },
+    {
+        image : "./CurrentMembersImages/tanisha.jpg",
+        name : "तनीषा गुप्ता",
+        position : "मुख्य अभिकल्पक"
+    },
+    {
+        image : "./CurrentMembersImages/atharv.jpg",
+        name : "अथर्व राहिंज",
+        position : "छायाचित्रकार"
+    },
+    {
+        image : "./CurrentMembersImages/shilpita.jpg",
+        name : "शिल्पिता.टी",
+        position : "हिंदीतर भाषी प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/sajja.jpg",
+        name : "सज्जा शशि कुमार",
+        position : "हिंदीतर भाषी प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/mudavat.jpg",
+        name : "मुडावात सुप्रिया",
+        position : "हिंदीतर भाषी प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/parul.jpg",
+        name : "पारुल ताबियाड",
+        position : "शोध एवं नवचार प्रमुख"
+    },
+    {
+        image : "./CurrentMembersImages/anant.jpg",
+        name : "अनंत शर्मा",
+        position : "संपादक प्रबंधक"
+    },
+    {
+        image : "./CurrentMembersImages/deeksha.jpg",
+        name : "दीक्षा वर्मा",
+        position : "संपादक प्रबंधक"
+    },
+    {
+        image : "./CurrentMembersImages/avinash.jpg",
+        name : "अविनाश सिंह",
+        position : "संपादक प्रबंधक"
+    },
+    {
+        image : "./CurrentMembersImages/ayushi_khanna.jpg",
+        name : "आयुषी खन्ना",
+        position : "संपादक प्रबंधक"
+    },
+    {
+        image : "./CurrentMembersImages/aryan.jpg",
+        name : "आर्यन उपाध्याय",
+        position : "संपादक प्रबंधक"
+    },
+]

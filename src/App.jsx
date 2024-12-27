@@ -9,6 +9,7 @@ import MiddleFront from './Components/MiddleFront'
 import Guest from './Components/Guest'
 import CompetionPage from './Components/CompetionPage'
 import Vithika from './Components/Vithika'
+import SocietyMember from './Components/SocietyMember'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -21,7 +22,8 @@ function App() {
       {/* <MiddleFront/> */}
       {/* <Guest/> */}
       {/* <CompetionPage/> */}
-      <Vithika/>
+      {/* <Vithika/> */}
+      <SocietyMember/>
 
       
     </div>
