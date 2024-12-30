@@ -1,0 +1,132 @@
+export default [
+    {
+        image : "./23MembersImages/arimardan_singh_parihar.jpg",
+        name : "अरिमर्दन सिंह परिहार",
+        position : "उपाध्यक्ष "
+    },
+    {
+        image : "./23MembersImages/vishnu_shankar.jpg",
+        name : "विष्णु शंकर",
+        position : "उपाध्यक्ष "
+    },
+    {
+        image : "./23MembersImages/rajesh_ranjan.jpg",
+        name : "राजेश रंजन  ",
+        position : "अध्यक्ष"
+    },
+    {
+        image : "./23MembersImages/garima_bisen.jpg",
+        name : "गरिमा बिसेन ",
+        position :"महा सचिव"
+    },
+    {
+        image : "./23MembersImages/prashant_ratour.jpg",
+        name : "प्रशांत राठौर",
+        position :"महा सचिव"
+    },
+    {
+        image : "./23MembersImages/ajay_singhadia.jpg",
+        name : "अजय सिंघाडिया",
+        position :"सह सचिव "
+    },
+    {
+        image : "./23MembersImages/shivam_singh.jpg",
+        name : "शिवम सिंह",
+        position : "समन्वयक"
+    },
+    {
+        image : "./23MembersImages/yashwant.jpg",
+        name : "यशवंत धाकड़ ",
+        position : "समन्वयक"
+    },
+    {
+        image : "./23MembersImages/parag_jhunjhunwala.jpg",
+        name : "पराग झुनझुनवाला",
+        position : "कोषाध्यक्ष"
+    },
+    {
+        image : "./23MembersImages/gayatri_parte.jpg",
+        name : "गायत्री परते ",
+        position : "आयोजन प्रमुख "
+    },
+    {
+        image : "./23MembersImages/vikas_kumar_buhadia.jpg",
+        name : "विकास कुमार बुहाड़िया",
+        position :"प्रचार प्रमुख "
+    },
+    {
+        image : "./23MembersImages/bhanu_pratap_singh_parihar.jpg",
+        name : "भानू प्रताप सिंह परिहार",
+        position :"अतिथि प्रमुख"
+    },
+    {
+        image : "./23MembersImages/devesh_kumar_jahangir.jpg",
+        name : " देवेश कुमार जांगिड़ ",
+        position :"प्रयोजकता प्रमुख "
+    },
+    {
+        image : "./23MembersImages/devesh_mishra.jpg",
+        name : "देवेश मिश्रा ",
+        position :"जनसम्पर्क प्रमुख "
+    },
+    {
+        image : "./23MembersImages/anchal_mishra.jpg",
+        name : " अंचल मिश्रा",
+        position :"जनसम्पर्क प्रमुख"
+    },
+    {
+        image : "./23MembersImages/prajjwal_pandey.jpg",
+        name : " प्रज्ज्वल पाण्डेय",
+        position :"मीडिया व संपादक प्रमुख "
+    },
+    {
+        image : "./23MembersImages/saurabh_yadav.jpg",
+        name : "सौरभ यादव",
+        position :"प्रबंध प्रमुख "
+    },
+    {
+        image : "./23MembersImages/muskan_sharma.jpg",
+        name : "मुस्कान शर्मा ",
+        position :"प्रबंध प्रमुख"
+    },
+    {
+        image : "./23MembersImages/alapaty_shivasmika.jpg",
+        name : "अलपाति शिवास्मिका",
+        position :"प्रतियोगिता प्रमुख"
+    },
+    {
+        image : "./23MembersImages/manish_kumar.jpg",
+        name : "मनीष कुमार",
+        position :"मुख्य अभिकल्पक"
+    },
+    {
+        image : "./23MembersImages/ritik_kumar.jpg",
+        name : "ऋतिक कुमार",
+        position :"मुख्य वेब अभिकल्पक"
+    },
+    {
+        image : "./23MembersImages/akhilesh_kumar_gupta.jpg",
+        name : "अखिलेश कुमार गुप्ता",
+        position :"मुख्य वीडियो संपादक "
+    },
+    {
+        image : "./23MembersImages/aleti_venkata_santhosh.jpg",
+        name : "अलेटि वेंकट संतोष",
+        position :"मुख्य तकनीकी प्रमुख"
+    },
+    {
+        image : "./23MembersImages/rithika_rathi.jpg",
+        name : "रितिका राठी",
+        position :"मुख्य तकनीकी प्रमुख "
+    },
+    {
+        image : "./23MembersImages/saifali_ahirwar.jpg",
+        name : "सैफाली अहिरवार",
+        position :"संपादक एवं प्रबंधक"
+    },
+    {
+        image : "./23MembersImages/ashu_rajput.jpg",
+        name : "आशु राजपूत ",
+        position :"संपादक एवं प्रबंधक"
+    }
+]

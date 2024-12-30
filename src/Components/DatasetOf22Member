@@ -1,0 +1,177 @@
+export default [
+    {
+        image : "./22MembersImages/ankit-upadhyaya.jpg",
+        name : "अंकित उपाध्याय ",
+        position : "अध्यक्ष"
+    },
+    {
+        image : "./22MembersImages/kavita-agrawal.jpg",
+        name : "कविता अग्रवाल",
+        position : "अध्यक्ष"
+    },
+    {
+        image : "./22MembersImages/vivek-kumar-ahirwar.jpg",
+        name : "विवेक कुमार अहिरवार ",
+        position : "उपाध्यक्ष"
+    },
+    {
+        image : "./22MembersImages/sneha-bhagavat.jpg",
+        name : "स्नेहा भागवत",
+        position : "उपाध्यक्ष"
+    },
+    {
+        image : "./22MembersImages/ritul-choudhary.jpg",
+        name : "रितुल चौधरी ",
+        position :"महा सचिव"
+    },
+    {
+        image : "./22MembersImages/vikas-jogpal.jpg",
+        name : "विकास जोगपाल",
+        position :"महा सचिव"
+    },
+    {
+        image : "./22MembersImages/akant-agrawal.jpg",
+        name : "एकांत कुमार अग्रवाल",
+        position : "समन्वयक"
+    },
+    {
+        image : "./22MembersImages/sanskriti-rajput.jpg",
+        name : "संस्कृति राजपूत",
+        position : "समन्वयक"
+    },
+    {
+        image : "./22MembersImages/pranav.jpg",
+        name : "प्रणव गुप्ता",
+        position : "कोषाध्यक्ष"
+    },
+    {
+        image : "./22MembersImages/archie-mittal.jpg",
+        name : "आर्ची मित्तल ",
+        position : "आयोजन प्रमुख "
+    },
+    {
+        image : "./22MembersImages/divyansh.jpg",
+        name : "दिव्यांश सिंह",
+        position :"आयोजन प्रमुख"
+    },
+    {
+        image : "./22MembersImages/ashish-rai.jpg",
+        name : "आशीष राय",
+        position :"अतिथि प्रमुख"
+    },
+    {
+        image : "./22MembersImages/devashree-gajendragadkar.jpg",
+        name : " देवश्री गजेन्द्रगड़कर",
+        position :"अतिथि प्रमुख"
+    },
+    {
+        image : "./22MembersImages/jayash-kohiya.jpg",
+        name : "जयश खोइया",
+        position :"प्रबंध प्रमुख"
+    },
+    {
+        image : "./22MembersImages/suryansh-yadav.jpg",
+        name : "  सूर्यांश यादव",
+        position :"प्रबंध प्रमुख"
+    },
+    {
+        image : "./22MembersImages/shailendra-choudhary.jpg",
+        name : "शैलेंद्र चौधरी",
+        position :"प्रायोजकता प्रमुख"
+    },
+    {
+        image : "./22MembersImages/jaya-rathore.jpg",
+        name : "जया राठौर ",
+        position :"प्रायोजकता प्रमुख"
+    },
+    {
+        image : "./22MembersImages/maneet-kaur-bagga.jpg",
+        name : "मनीत कौर बग्गा ",
+        position :"प्रचार प्रमुख"
+    },
+    {
+        image : "./22MembersImages/shubham-upadhyaya.jpg",
+        name : "शुभम उपाध्याय",
+        position :"प्रचार प्रमुख"
+    },
+    {
+        image : "./22MembersImages/muskan-soni.jpg",
+        name : "मुस्कान सोनी",
+        position :"जनसम्पर्क प्रमुख"
+    },
+    {
+        image : "./22MembersImages/kunal-thite.jpg",
+        name : "कुणाल थिटे",
+        position :"प्रतियोगिता प्रमुख"
+    },
+    {
+        image : "./22MembersImages/shazia-ansari.jpg",
+        name : "शाज़िया अंसारी ",
+        position :"प्रतियोगिता प्रमुख"
+    },
+    {
+        image : "./22MembersImages/navya.jpg",
+        name : "श्री नव्या",
+        position :"हिन्दीतर भाषी प्रमुख"
+    },
+    {
+        image : "./22MembersImages/neeraj-tripathi.jpg",
+        name : "नीरज त्रिपाठी",
+        position :"मुख्य संपादक"
+    },
+    {
+        image : "./22MembersImages/simran-awasya.jpg",
+        name : "सिमरन अवास्या",
+        position :"मीडिया प्रमुख"
+    },
+    {
+        image : "./22MembersImages/diya-trivedi.jpg",
+        name : "दिया त्रिवेदी",
+        position :"मुख्य अभिकल्पक "
+    },
+    {
+        image : "./22MembersImages/prakhar-gupta.jpg",
+        name : "प्रखर गुप्ता",
+        position :"मुख्य तकनीकी प्रमुख"
+    },
+    {
+        image : "./22MembersImages/aditya-jain.jpg",
+        name : "आदित्य जैन",
+        position :"मुख्य वेब अभिकल्पक"
+    },
+    {
+        image : "./22MembersImages/pratyush-lokhande.jpg",
+        name : "प्रत्युष लोखंडे",
+        position :"मुख्य वीडियो संपादक"
+    },
+    {
+        image : "./22MembersImages/abhigyna-meruga.jpg",
+        name : "अभिग्न्या मेरूगा ",
+        position :"मुख्य छायाकार"
+    },
+    {
+        image : "./22MembersImages/sejal-lade.jpg",
+        name : "सेजल लादे",
+        position :"संपादक एवं प्रबंधक"
+    },
+    {
+        image : "./22MembersImages/somesh-rawat.jpg",
+        name : "सोमेश रावत",
+        position :"संपादक एवं प्रबंधक"
+    },
+    {
+        image : "./22MembersImages/mayank-solanki.jpg",
+        name : "मयंक सोलंकी",
+        position :"संपादक एवं प्रबंधक "
+    },
+    {
+        image : "./22MembersImages/kavita-akhade.jpg",
+        name : "कविता अखाड़े",
+        position :"संपादक एवं प्रबंधक "
+    },
+    {
+        image : "./22MembersImages/anushka-verma.jpg",
+        name : "अनुष्का वर्मा",
+        position : "संपादक एवं प्रबंधक"
+    },
+]

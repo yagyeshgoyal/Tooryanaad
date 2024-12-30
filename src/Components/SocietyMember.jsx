@@ -2,6 +2,7 @@ import React from 'react';
 import Founder from './Founders';
 import Currentmember from './Currentmember';
 import Member from './Member';
+import PastMember from './PastMember';
 
 function SocietyMember(){
     return (
@@ -23,6 +24,7 @@ function SocietyMember(){
                 <Founder/>
                 <Currentmember/>
                 <Member/>
+                <PastMember/>
 
 
                 <div></div>
