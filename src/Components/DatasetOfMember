@@ -1,0 +1,67 @@
+export default [
+    {
+        image: "./MembersImages/2211201211.jpg",
+        name : "गोपाल वर्मा",
+        position : "वीडियो संपादक"
+    },
+    {
+        image:"./MembersImages/2211901172.jpg",
+        name : "प्रेम कुमार",
+        position : "संपादक एवं प्रबंधक"
+    },
+    {
+        image:"./MembersImages/2211301143.jpg",
+        name : "अनिमेष सिंह",
+        position : "प्रबंधक"
+    },
+    {
+        image:"./MembersImages/2211701146.jpg",
+        name : "पीयूष पाटीदार",
+        position : "प्रबंधक"
+    },
+    {
+        image:"./MembersImages/2211301215.jpg",
+        name : "राघव शुक्ला",
+        position : "प्रबंधक"
+    },
+    {
+        image:"./MembersImages/2211601329.jpg",
+        name : "भिक्षांश बोहरे",
+        position : "प्रबंधक"
+    },
+    {
+        image:"./MembersImages/2211701124.jpg",
+        name : "स्वाति हंसदा",
+        position : "प्रबंधक एवं संपादक"
+    },
+    {
+        image:"./MembersImages/2211401221.jpg",
+        name : "अमन जायसवाल",
+        position : "प्रबंधक एवं संपादक"
+    },
+    {
+        image:"./MembersImages/2211701102.jpg",
+        name : "वेदांत नारखेड़े",
+        position : "संपादक एवं प्रबंधक"
+    },
+    {
+        image:"./MembersImages/2211401146.jpg",
+        name : "दीपाली राजे",
+        position : "मीडिया संपादक"
+    },
+    {
+        image:"./MembersImages/2211601351.jpg",
+        name : "शंकर्षण द्विवेदी",
+        position : "मीडिया"
+    },
+    {
+        image:"./MembersImages/2211201266.jpg",
+        name : "कोमल दुबे",
+        position : "वेब अभिकल्पक"
+    },
+    {
+        image:"./MembersImages/2211201110.jpg",
+        name : "सत्यम् गुप्ता",
+        position : "वेब अभिकल्पक"
+    }
+]
