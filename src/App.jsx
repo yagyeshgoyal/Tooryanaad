@@ -12,22 +12,46 @@ import Vithika from './Components/Vithika'
 import SocietyMember from './Components/SocietyMember'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [Pagecount, setCount] = useState(0)
+
+  let newvalue = 0;
+
+  function newpage(value){
+    console.log("int the app.jsx", value);
+    newvalue = value;
+    setCount(value);
+    console.log("int the app.jsx", value);
+  }
+
+  const renderContent = () => {
+    switch (Pagecount) {
+      case 0:
+        return (
+          <>
+            <UpperFront />
+            <MiddleFront />
+          </>
+        );
+      case 1:
+        return <Guest />;
+      case 2:
+        return <SocietyMember />;
+      case 3:
+        return <CompetionPage />;
+      default:
+        return <Vithika />;
+    }
+  };
 
   return (
     <div>
-      <SideBar/>
-      <TopBar/>
-      {/* <UpperFront/> */}
-      {/* <MiddleFront/> */}
-      {/* <Guest/> */}
-      {/* <CompetionPage/> */}
-      {/* <Vithika/> */}
-      <SocietyMember/>
-
-      
+      <SideBar />
+      <TopBar newpage={newpage} />
+      {renderContent()}
     </div>
-  )
+  );
+
+
  
 }
 
