@@ -1,17 +1,11 @@
 import React from "react";
-import images1 from './images/1.jpeg';
-import images2 from './images/2.jpeg';
-import images3 from './images/3.jpg';
-import images4 from './images/4.jpg';
-import images5 from './images/5.jpg';
-import images6 from './images/6.jpg';
-import bgimages from './images/bg.jpg';
+
 
 function MiddleFront(){
     return (
         <div className="py-10 flex flex-col max-sm:flex-col-reverse gap-5 justify-center items-center"
         style={{
-            backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url({bgimages})',
+            backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("./bg.jpg")',
             backgroundSize: 'cover',
             backgroundPosition: 'center center',
             backgroundRepeat: 'no-repeat',
@@ -53,12 +47,12 @@ function MiddleFront(){
 
             <div className="responsive-container-block Container">
                 <div className="responsive-container-block rightSide opacity: 1 transform: none">
-                    <img src={images1} alt="" className="mt-[39%] mr-[80%] mb-[29%] ml-[0%] max-w-[100%] h-[32%] w-[40%] absolute shadow-[-10px_-10px_10px_#000] rounded-[10px] block align-middle"/>
-                    <img src={images2} alt="" className="mt-[19%] mr-[42%] mb-[42%] ml-[23%] max-w-[100%] h-[39%] w-[50%] absolute shadow-[0px_-10px_15px_#000] rounded-[10px] block align-middle"/>
-                    <img src={images3} alt="" className="mt-[70%] mr-[90%] mb-[20%] ml-[5%] max-w-[100%] h-[30%] w-[40%] absolute shadow-[10px_10px_15px_#000] rounded-[10px] block align-middle"/>
-                    <img src={images4} alt="" className="mt-[70%] mr-[10%] mb-[5%] ml-[73%] max-w-[100%] h-[30%] w-[40%] absolute shadow-[10px_10px_15px_#000] rounded-[10px] block align-middle"/>
-                    <img src={images5} alt="" className="mt-[40%] mr-[0px] mb-[18%] ml-[75%] max-w-[100%] h-[30%] w-[40%] absolute shadow-[10px_10px_10px_#000] rounded-[10px] block align-middle"/>
-                    <img src={images6} alt="" className="mt-[0px] mr-[20%] mb-[67%] ml-[62%] max-w-[100%] h-[40%] w-[50%] absolute shadow-[10px_10px_10px_#000] rounded-[10px] block align-middle"/>
+                    <img src="./1.jpeg" alt="" className="mt-[39%] mr-[80%] mb-[29%] ml-[0%] max-w-[100%] h-[32%] w-[40%] absolute shadow-[-10px_-10px_10px_#000] rounded-[10px] block align-middle"/>
+                    <img src="./2.jpeg" alt="" className="mt-[19%] mr-[42%] mb-[42%] ml-[23%] max-w-[100%] h-[39%] w-[50%] absolute shadow-[0px_-10px_15px_#000] rounded-[10px] block align-middle"/>
+                    <img src="./3.jpg" alt="" className="mt-[70%] mr-[90%] mb-[20%] ml-[5%] max-w-[100%] h-[30%] w-[40%] absolute shadow-[10px_10px_15px_#000] rounded-[10px] block align-middle"/>
+                    <img src="./4.jpg" alt="" className="mt-[70%] mr-[10%] mb-[5%] ml-[73%] max-w-[100%] h-[30%] w-[40%] absolute shadow-[10px_10px_15px_#000] rounded-[10px] block align-middle"/>
+                    <img src="./5.jpg" alt="" className="mt-[40%] mr-[0px] mb-[18%] ml-[75%] max-w-[100%] h-[30%] w-[40%] absolute shadow-[10px_10px_10px_#000] rounded-[10px] block align-middle"/>
+                    <img src="./6.jpg" alt="" className="mt-[0px] mr-[20%] mb-[67%] ml-[62%] max-w-[100%] h-[40%] w-[50%] absolute shadow-[10px_10px_10px_#000] rounded-[10px] block align-middle"/>
                     {/* <img src={images6} alt="" /> */}
                     
                 </div>
